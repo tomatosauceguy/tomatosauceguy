@@ -6,10 +6,17 @@
 
 ## :hammer_and_wrench: Languages and Tools
 
- 
+<br>
+
+![tomatosauceguy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomatosauceguy&theme=outrun)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomatosauceguy&layout=compact&theme=outrun)
+
 
 <!--
-**ICWeiner/ICWeiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**tomatosauceguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🔭 I’m currently working on ...
